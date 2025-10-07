@@ -15,7 +15,10 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 > **Admin Dashboard and Employee Interface**  
-> ⚠️ This project is still in **active development/production**. Features may change as it grows.
+> This version uses **Node + Express backend** but does not use **MongoDB**.  
+>  
+> 💡 If you prefer a more complex setup (MongoDB required), check out the MEAN version here:  
+> 👉 [Inventory-and-Workforce-Dashboard-angular-mongo](https://github.com/DMGsilverfish/Inventory-and-Workforce-Dashboard-angular-mongo)
 
 ---
 
